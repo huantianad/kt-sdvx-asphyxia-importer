@@ -90,6 +90,7 @@ type
   WeirdDate = object
     date: int
 
+# I'm ignoring these songs since they got removed, rip tuyu
 const ignoredSongs = [1759, 1760, 1761, 1874]
 const batchMetadata = BatchManualMeta(
   game: "sdvx", playtype: "Single", service: "Asphyxia CORE", version: "exceed"

@@ -5,3 +5,5 @@
 3. Compile: `nim build -d:release`
 4. Place binary next to `sdvx@asphyxia.db`.
 5. Run!
+
+There's a list of songs that are ignored, edit those if you like.
